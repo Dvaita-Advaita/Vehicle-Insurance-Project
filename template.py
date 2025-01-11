@@ -1,6 +1,6 @@
 import os
-from pat
-hlib import Path 
+from pathlib import Path 
+
 
 project_name = "src"
 
